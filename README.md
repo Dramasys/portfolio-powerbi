@@ -1,4 +1,4 @@
-# Portfolio Power BI — Analyses de Données (Niveau PL-300)
+# Portfolio Power BI — Analyses de Données
 
 Bienvenue sur mon portfolio de projets d'analyse de données et de Business Intelligence. Ce dépôt centralise mes réalisations techniques développées au format projet Power BI (.pbip), permettant un versionnage propre et rigoureux du modèle de données et des mesures DAX.
 
